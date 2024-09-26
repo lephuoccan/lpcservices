@@ -1,0 +1,7 @@
+# Đọc các ảnh mẫu với kích thước khác nhau
+templates = [
+    cv2.imread('items/gold2.PNG', 0),
+    cv2.imread('items/gold3.PNG', 0),
+    cv2.imread('items/gold4.PNG', 0),
+    cv2.imread('items/box1.PNG', 0)
+]
